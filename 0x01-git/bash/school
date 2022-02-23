@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #!/bin/bash
-echo "School" 
-=======
-#!/bin/bash\necho "School" 
->>>>>>> 7e60d73ec63079291d09ecddd77ca15b66d7b824
-=======
-#!/bin/bash\necho "School" 
->>>>>>> 7e60d73ec63079291d09ecddd77ca15b66d7b824
+echo "The school is open!" 
